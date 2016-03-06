@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transactionDatabase>
+	<transactions>
+		<transaction id="1" type="income" categoryId="2" date="2014-12-03">25,2</transaction>
+		<transaction id="2" type="expense" categoryId="1" date="2014-11-07">5</transaction>
+		<transaction id="3" type="income" categoryId="2" date="2011-12-07">25</transaction>
+		<transaction id="4" type="expense" categoryId="3" date="2014-12-17">25</transaction>
+		<transaction id="5" type="expense" categoryId="4" date="2014-05-07">25</transaction>
+		<transaction id="6" type="expense" categoryId="2" date="2014-11-07">25</transaction>
+		<transaction id="7" type="income" categoryId="2" date="2014-12-07">25</transaction>
+		<transaction id="8" type="expense" categoryId="2" date="2014-12-27">25</transaction>
+		<transaction id="9" type="income" categoryId="2" date="2014-12-07">25</transaction>
+		<transaction id="10" type="income" categoryId="2" date="2014-12-07">25</transaction>
+		<transaction id="11" type="expense" categoryId="2" date="2014-12-07">25</transaction>
+		<transaction id="12" type="income" categoryId="2" date="2014-12-07">25</transaction>
+	</transactions>
+	<categories>
+		<category id="1">Food</category>
+		<category id="2">Job</category>
+		<category id="3">Car</category>
+		<category id="4">Flat</category> 
+		
+	</categories>
+</transactionDatabase>

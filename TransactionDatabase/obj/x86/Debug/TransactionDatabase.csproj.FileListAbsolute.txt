@@ -1,0 +1,39 @@
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Form1.resources
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Properties.Resources.resources
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csproj.GenerateResource.Cache
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\bin\Debug\TransactionDatabase.exe
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\bin\Debug\TransactionDatabase.pdb
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.exe
+C:\Users\M0sTik\Documents\Visual Studio 2010\Projects\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\bin\Debug\TransactionDatabase.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\bin\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\TransactionDatabase\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\bin\Debug\TransactionDatabase.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\bin\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Лаба №2\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csproj.GenerateResource.Cache
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.exe
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.pdb
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csprojResolveAssemblyReference.cache
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Form1.resources
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Properties.Resources.resources
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csproj.GenerateResource.Cache
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\bin\Debug\TransactionDatabase.exe
+C:\Users\M0sTik\Desktop\XML_Andrew\XML_Andrew\TransactionDatabase\bin\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\bin\Debug\TransactionDatabase.exe
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\bin\Debug\TransactionDatabase.pdb
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Form1.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Уроки\Прога\Лабы\Labs\Lab_3_XML\XML\TransactionDatabase\obj\x86\Debug\TransactionDatabase.exe
